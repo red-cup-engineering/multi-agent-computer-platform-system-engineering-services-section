@@ -1,0 +1,415 @@
+{
+  "kind": "spotcomp.operational-reading/v1",
+  "language": "lkt",
+  "surface": "wačhíŋ",
+  "roots": {
+    "locator": "ni:///sha-256;up0FMitJlobNNfiAkJMWfTsIkR0xEuUvVe4Lz-GZb0E",
+    "record": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754",
+    "entry": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8",
+    "generation": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo",
+    "structure": "ni:///sha-256;hN55Mg-yICeMzwSWykZIQuSlejhByUgX8lsueSUM-2s",
+    "path": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ",
+    "reading": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+  },
+  "carriers": {
+    "locator": {
+      "id": "ni:///sha-256;up0FMitJlobNNfiAkJMWfTsIkR0xEuUvVe4Lz-GZb0E",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5kd3Nwb3Rjb21wLnNvdXJjZS1sb2NhdG9ya3NldHRsZWRCb2R5g2RwYWlygmRtYXJrcSJzZW4uanNvbi5vYmplY3Qig2RwYWlyg2RwYWlygmRtYXJrbCJnaXRCbG9iU2hhIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3gqImNmMDVmYjYxZmNjYmNjZGM0NDgzYTQyZDcxMjEyZTI2ZjYzYjZkMjMig2RwYWlyg2RwYWlygmRtYXJrZiJsaW5lIoNkcGFpcoJkbWFya3Eic2VuLmpzb24ubnVtYmVyIoJkbWFya2Exg2RwYWlyg2RwYWlygmRtYXJrZiJwYXRoIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3MiZGF0YS9jb3JwdXMuanNvbmwig2RwYWlyg2RwYWlygmRtYXJrbCJyZXBvc2l0b3J5IoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3gsInJlZC1jdXAtZW5naW5lZXJpbmcvbGFrb3RhLWxhbmd1YWdlLWNvcnB1cyKDZHBhaXKDZHBhaXKCZG1hcmtqInJldmlzaW9uIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3gqIjAxMTNjNGVhZjdlY2VhNGE3OTA4YzA3OWRiZDQwOTY4MmNmMTQ0ODIig2RwYWlyg2RwYWlygmRtYXJrZSJ1cmwig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreH8iaHR0cHM6Ly9naXRodWIuY29tL3JlZC1jdXAtZW5naW5lZXJpbmcvbGFrb3RhLWxhbmd1YWdlLWNvcnB1cy9ibG9iLzAxMTNjNGVhZjdlY2VhNGE3OTA4YzA3OWRiZDQwOTY4MmNmMTQ0ODIvZGF0YS9jb3JwdXMuanNvbmwigWRzdGFya3dpdG5lc3NSb290eDluaTovLy9zaGEtMjU2O2pWbElGQ1R6cks2WF9qYnBaRFRMaWFoY2FQaDV0N0JOZVc5blAyblZETllsc2VtYW50aWNUeXBlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0cXNldHRsZW1lbnRQcm9maWxleCF1cm46cmNlOnNldHRsZW1lbnQ6aWRlbnRpdHk6MC4wLjF0bm9ybWFsaXphdGlvblByb2ZpbGV4G3VybjpyY2U6c2VuOm5vcm1hbGl6ZTowLjEuMA=="
+      }
+    },
+    "record": {
+      "id": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5keB1zcG90Y29tcC5zb3VyY2UtY29ycHVzLXJlY29yZGtzZXR0bGVkQm9keYNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya28iY29udGVudEJhc2U2NCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt5A6IiZXlKcmFXNWtJam9pWTI5dGJYVnVhV05oZEdsdVp5MXBiaTFzWVd0dmRHRXVZMjl5Y0hWekxXVnVkSEo1SWl3aWFXUWlPaUpzWkd3eE1qRXRZMnhoYzNNdGFTMWphR2x1WnkweGMyY2lMQ0p0WVhSMWNtbDBlU0k2SWtKMWFXeDBLMmR5WldWdUlpd2lkR1Y0ZENJNkluZGh4STFvdzYzRml5NGlMQ0p6YjNWeVkyVWlPbnNpYkdGaVpXd2lPaUpNUkV3Z01USXhJRWx1ZEdWdWMybDJaU0JNWVd0dmRHRXZSR0ZyYjNSaElHWnZjaUJDWldkcGJtNWxjbk1pTENKMWNtd2lPaUpvZEhSd2N6b3ZMM2R2ZEdGcmRYbGxMbmRsWldKc2VTNWpiMjB2ZFhCc2IyRmtjeTh5THpNdk55ODBMekl6TnpRNU5EYzVMMnhrYkRFeU1WOXdZV05yWlhRdWNHUm1JaXdpYkc5allYUnZjaUk2SWtOc1lYTnpJRWtnYzJsdVozVnNZWElnZG1WeVlpQmxlR0Z0Y0d4bGN5SjlMQ0psZUhCbFkzUWlPbnNpZDI5eVpITWlPbHQ3SW5SbGVIUWlPaUozWWNTTmFNT3R4WXNpTENKMFlXZHpJanBiSW5abGNtSWlYU3dpWm1WaGRIVnlaWE1pT2xzaWNtOXZkRHJFaldqRHJjV0xJaXdpZEdWdGNHeGhkR1U2WTJ4aGMzTXRhUzEzWVN0emRHVnRJaXdpYlc5eWNHaHZkR0ZqZEdsak9uQnliMjV2YldsdVlXd3RjSEpsWm1sNElpd2lZV2R5WldWdFpXNTBPbUZqZEc5eU9qRnpaeUlzSW1sdVpteGxZM1JwYjI0dFkyeGhjM002WTJ4aGMzTXRhU0pkZlYwc0ltRnlZM01pT2x0ZExDSm5aVzVsY21GMGFXOXVJanA3SW5KdmIzUWlPaUxFaldqRHJjV0xJaXdpWm1WaGRIVnlaWE1pT2xzaWRHVnRjR3hoZEdVNlkyeGhjM010YVMxM1lTdHpkR1Z0SWl3aWJXOXljR2h2ZEdGamRHbGpPbkJ5YjI1dmJXbHVZV3d0Y0hKbFptbDRJaXdpWVdkeVpXVnRaVzUwT21GamRHOXlPakZ6WnlJc0ltbHVabXhsWTNScGIyNHRZMnhoYzNNNlkyeGhjM010YVNKZExDSnpkWEptWVdObElqb2lkMkhFaldqRHJjV0xJbjE5ZlE9PSKDZHBhaXKDZHBhaXKCZG1hcmtrIm1lZGlhVHlwZSKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt2ImFwcGxpY2F0aW9uL3gtbmRqc29uIoFkc3Rhcmt3aXRuZXNzUm9vdHg5bmk6Ly8vc2hhLTI1Njt1cDBGTWl0SmxvYk5OZmlBa0pNV2ZUc0lrUjB4RXVVdlZlNEx6LUdaYjBFbHNlbWFudGljVHlwZYNkcHJvZIFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYNkcHJvZIFkYmFzZYFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYNkcHJvZIFkYmFzZYFkYmFzZYFkdW5pdHFzZXR0bGVtZW50UHJvZmlsZXghdXJuOnJjZTpzZXR0bGVtZW50OmlkZW50aXR5OjAuMC4xdG5vcm1hbGl6YXRpb25Qcm9maWxleBt1cm46cmNlOnNlbjpub3JtYWxpemU6MC4xLjA="
+      }
+    },
+    "entry": {
+      "id": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5kdXNwb3Rjb21wLmNvcnB1cy1lbnRyeWtzZXR0bGVkQm9keYNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya2giZXhwZWN0IoNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya2YiYXJjcyKDZHBhaXKCZG1hcmtwInNlbi5qc29uLmFycmF5IoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2wiZ2VuZXJhdGlvbiKDZHBhaXKCZG1hcmtxInNlbi5qc29uLm9iamVjdCKDZHBhaXKDZHBhaXKCZG1hcmtqImZlYXR1cmVzIoNkcGFpcoJkbWFya3Aic2VuLmpzb24uYXJyYXkig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreBoidGVtcGxhdGU6Y2xhc3MtaS13YStzdGVtIoNkcGFpcoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3ggIm1vcnBob3RhY3RpYzpwcm9ub21pbmFsLXByZWZpeCKDZHBhaXKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt1ImFncmVlbWVudDphY3Rvcjoxc2cig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreBoiaW5mbGVjdGlvbi1jbGFzczpjbGFzcy1pIoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2Yicm9vdCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmtpIsSNaMOtxYsig2RwYWlyg2RwYWlygmRtYXJraSJzdXJmYWNlIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2sid2HEjWjDrcWLIoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2cid29yZHMig2RwYWlygmRtYXJrcCJzZW4uanNvbi5hcnJheSKDZHBhaXKDZHBhaXKCZG1hcmtxInNlbi5qc29uLm9iamVjdCKDZHBhaXKDZHBhaXKCZG1hcmtqImZlYXR1cmVzIoNkcGFpcoJkbWFya3Aic2VuLmpzb24uYXJyYXkig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJrbiJyb290OsSNaMOtxYsig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreBoidGVtcGxhdGU6Y2xhc3MtaS13YStzdGVtIoNkcGFpcoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3ggIm1vcnBob3RhY3RpYzpwcm9ub21pbmFsLXByZWZpeCKDZHBhaXKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt1ImFncmVlbWVudDphY3Rvcjoxc2cig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreBoiaW5mbGVjdGlvbi1jbGFzczpjbGFzcy1pIoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2YidGFncyKDZHBhaXKCZG1hcmtwInNlbi5qc29uLmFycmF5IoNkcGFpcoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2YidmVyYiKBZHN0YXKDZHBhaXKDZHBhaXKCZG1hcmtmInRleHQig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJrayJ3YcSNaMOtxYsigWRzdGFygWRzdGFygWRzdGFyg2RwYWlyg2RwYWlygmRtYXJrZCJpZCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4GiJsZGwxMjEtY2xhc3MtaS1jaGluZy0xc2cig2RwYWlyg2RwYWlygmRtYXJrZiJraW5kIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3gmImNvbW11bmljYXRpbmctaW4tbGFrb3RhLmNvcnB1cy1lbnRyeSKDZHBhaXKDZHBhaXKCZG1hcmtqIm1hdHVyaXR5IoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya20iQnVpbHQrZ3JlZW4ig2RwYWlyg2RwYWlygmRtYXJraCJzb3VyY2Uig2RwYWlygmRtYXJrcSJzZW4uanNvbi5vYmplY3Qig2RwYWlyg2RwYWlygmRtYXJrZyJsYWJlbCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4LyJMREwgMTIxIEludGVuc2l2ZSBMYWtvdGEvRGFrb3RhIGZvciBCZWdpbm5lcnMig2RwYWlyg2RwYWlygmRtYXJraSJsb2NhdG9yIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3ggIkNsYXNzIEkgc2luZ3VsYXIgdmVyYiBleGFtcGxlcyKDZHBhaXKDZHBhaXKCZG1hcmtlInVybCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4SCJodHRwczovL3dvdGFrdXllLndlZWJseS5jb20vdXBsb2Fkcy8yLzMvNy80LzIzNzQ5NDc5L2xkbDEyMV9wYWNrZXQucGRmIoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2YidGV4dCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmtsIndhxI1ow63Fiy4igWRzdGFya3dpdG5lc3NSb290eDluaTovLy9zaGEtMjU2O1g4d2RDRnJyaC03Z0dMR0hTLWFlSmtmVnpLbnNrTGFpYWwzdWdaaWo3NTRsc2VtYW50aWNUeXBlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0gWR1bml0gWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0cXNldHRsZW1lbnRQcm9maWxleCF1cm46cmNlOnNldHRsZW1lbnQ6aWRlbnRpdHk6MC4wLjF0bm9ybWFsaXphdGlvblByb2ZpbGV4G3VybjpyY2U6c2VuOm5vcm1hbGl6ZTowLjEuMA=="
+      }
+    },
+    "generation": {
+      "id": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5kc3Nwb3Rjb21wLmdlbmVyYXRpb25rc2V0dGxlZEJvZHmDZHBhaXKCZG1hcmtxInNlbi5qc29uLm9iamVjdCKDZHBhaXKDZHBhaXKCZG1hcmtqImZlYXR1cmVzIoNkcGFpcoJkbWFya3Aic2VuLmpzb24uYXJyYXkig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreBoidGVtcGxhdGU6Y2xhc3MtaS13YStzdGVtIoNkcGFpcoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3ggIm1vcnBob3RhY3RpYzpwcm9ub21pbmFsLXByZWZpeCKDZHBhaXKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt1ImFncmVlbWVudDphY3Rvcjoxc2cig2RwYWlyg2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreBoiaW5mbGVjdGlvbi1jbGFzczpjbGFzcy1pIoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2Yicm9vdCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmtpIsSNaMOtxYsig2RwYWlyg2RwYWlygmRtYXJraSJzdXJmYWNlIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2sid2HEjWjDrcWLIoFkc3Rhcmt3aXRuZXNzUm9vdHg5bmk6Ly8vc2hhLTI1NjtYT0U2R05OSllhMjFVaWlLLXI2clFYU24tV25Pb2t4d1dPS3BWTEkzbFU4bHNlbWFudGljVHlwZYNkcHJvZIFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYNkcHJvZIFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYFkYmFzZYFkdW5pdINkcHJvZINkcHJvZIFkYmFzZYNkcHJvZIFkYmFzZYFkYmFzZYNkcHJvZINkcHJvZIFkYmFzZYNkcHJvZIFkYmFzZYFkYmFzZYFkdW5pdHFzZXR0bGVtZW50UHJvZmlsZXghdXJuOnJjZTpzZXR0bGVtZW50OmlkZW50aXR5OjAuMC4xdG5vcm1hbGl6YXRpb25Qcm9maWxleBt1cm46cmNlOnNlbjpub3JtYWxpemU6MC4xLjA="
+      }
+    },
+    "structure": {
+      "id": "ni:///sha-256;hN55Mg-yICeMzwSWykZIQuSlejhByUgX8lsueSUM-2s",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5keCxzZW1pb3RpYy1jb250ZW50LmZpbml0ZS1nZW5lcmF0aXZlLXN0cnVjdHVyZWtzZXR0bGVkQm9keYNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya2ciZWRnZXMig2RwYWlygmRtYXJrcCJzZW4uanNvbi5hcnJheSKDZHBhaXKDZHBhaXKCZG1hcmtxInNlbi5qc29uLm9iamVjdCKDZHBhaXKDZHBhaXKCZG1hcmtmImZyb20ig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJrZyJlbnRyeSKDZHBhaXKDZHBhaXKCZG1hcmtrImdlbmVyYXRvciKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmtzIm9iamVjdC1wcm9qZWN0aW9uIoNkcGFpcoNkcGFpcoJkbWFya2QidG8ig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJrbCJnZW5lcmF0aW9uIoFkc3RhcoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2cibm9kZXMig2RwYWlygmRtYXJrcCJzZW4uanNvbi5hcnJheSKDZHBhaXKDZHBhaXKCZG1hcmtxInNlbi5qc29uLm9iamVjdCKDZHBhaXKDZHBhaXKCZG1hcmtmImNlbGwig2RwYWlygmRtYXJrcSJzZW4uanNvbi5vYmplY3Qig2RwYWlyg2RwYWlygmRtYXJraCJvYmplY3Qig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreDsibmk6Ly8vc2hhLTI1NjtvSHlZNFMwVG1vYzkyamduU2VFV1BmOFBPb2E5REJDTmdidG9XazdGUkpvIoNkcGFpcoNkcGFpcoJkbWFya2sicHJlZGljYXRlIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3gnInVybjo1NjE6anNvbi1tZW1iZXI6ZXhwZWN0LmdlbmVyYXRpb24ig2RwYWlyg2RwYWlygmRtYXJraSJzdWJqZWN0IoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3g7Im5pOi8vL3NoYS0yNTY7WE9FNkdOTkpZYTIxVWlpSy1yNnJRWFNuLVduT29reHdXT0twVkxJM2xVOCKBZHN0YXKDZHBhaXKDZHBhaXKCZG1hcmtlImtleSKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmtnImVudHJ5IoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya2YiY2VsbCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLm9iamVjdCKDZHBhaXKDZHBhaXKCZG1hcmtoIm9iamVjdCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4OyJuaTovLy9zaGEtMjU2O29IeVk0UzBUbW9jOTJqZ25TZUVXUGY4UE9vYTlEQkNOZ2J0b1drN0ZSSm8ig2RwYWlyg2RwYWlygmRtYXJrayJwcmVkaWNhdGUig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreCcidXJuOjU2MTpqc29uLW1lbWJlcjpleHBlY3QuZ2VuZXJhdGlvbiKDZHBhaXKDZHBhaXKCZG1hcmtpInN1YmplY3Qig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreDsibmk6Ly8vc2hhLTI1NjtvSHlZNFMwVG1vYzkyamduU2VFV1BmOFBPb2E5REJDTmdidG9XazdGUkpvIoFkc3RhcoNkcGFpcoNkcGFpcoJkbWFya2Uia2V5IoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2wiZ2VuZXJhdGlvbiKBZHN0YXKBZHN0YXKDZHBhaXKDZHBhaXKCZG1hcmtvInByZWRpY2F0ZU1hcHMig2RwYWlygmRtYXJrcCJzZW4uanNvbi5hcnJheSKBZHN0YXKDZHBhaXKDZHBhaXKCZG1hcmtpInZlcnNpb24ig2RwYWlygmRtYXJrcSJzZW4uanNvbi5udW1iZXIigmRtYXJrYTGBZHN0YXJrd2l0bmVzc1Jvb3R4OW5pOi8vL3NoYS0yNTY7WDh3ZENGcnJoLTdnR0xHSFMtYWVKa2ZWektuc2tMYWlhbDN1Z1ppajc1NGxzZW1hbnRpY1R5cGWDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXSBZHVuaXSDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXSDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXSDZHByb2SDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXSDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXSBZHVuaXSDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZHVuaXSDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXRxc2V0dGxlbWVudFByb2ZpbGV4IXVybjpyY2U6c2V0dGxlbWVudDppZGVudGl0eTowLjAuMXRub3JtYWxpemF0aW9uUHJvZmlsZXgbdXJuOnJjZTpzZW46bm9ybWFsaXplOjAuMS4w"
+      }
+    },
+    "path": {
+      "id": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5keCNzZW1pb3RpYy1jb250ZW50LnByb29mLXBhdGgtd2l0bmVzc2tzZXR0bGVkQm9keYNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya2YicGF0aCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4LCJlbnRyeS9vYmplY3QtcHJvamVjdGlvbi9saWJyYXJ5L2dlbmVyYXRpb24ig2RwYWlyg2RwYWlygmRtYXJrbiJwcm9vZlByb2ZpbGUig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreCUidXJuOnJjZTpwcm9vZi1wYXRoOmdlbmVyYXRpdmU6MC4wLjEig2RwYWlyg2RwYWlygmRtYXJrayJzb3VyY2VLZXkig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJrZyJlbnRyeSKDZHBhaXKDZHBhaXKCZG1hcmtvInN0cnVjdHVyZVJvb3Qig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreDsibmk6Ly8vc2hhLTI1NjtoTjU1TWcteUlDZU16d1NXeWtaSVF1U2xlamhCeVVnWDhsc3VlU1VNLTJzIoNkcGFpcoNkcGFpcoJkbWFya2sidGFyZ2V0S2V5IoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2wiZ2VuZXJhdGlvbiKDZHBhaXKDZHBhaXKCZG1hcmtpInZlcnNpb24ig2RwYWlygmRtYXJrcSJzZW4uanNvbi5udW1iZXIigmRtYXJrYTGBZHN0YXJrd2l0bmVzc1Jvb3R4OW5pOi8vL3NoYS0yNTY7WDh3ZENGcnJoLTdnR0xHSFMtYWVKa2ZWektuc2tMYWlhbDN1Z1ppajc1NGxzZW1hbnRpY1R5cGWDZHByb2SBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WDZHByb2SDZHByb2SBZGJhc2WDZHByb2SBZGJhc2WBZGJhc2WBZHVuaXRxc2V0dGxlbWVudFByb2ZpbGV4IXVybjpyY2U6c2V0dGxlbWVudDppZGVudGl0eTowLjAuMXRub3JtYWxpemF0aW9uUHJvZmlsZXgbdXJuOnJjZTpzZW46bm9ybWFsaXplOjAuMS4w"
+      }
+    },
+    "reading": {
+      "id": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk",
+      "bytes": {
+        "encoding": "base64",
+        "data": "qGRraW5keDhzZW1pb3RpYy1leHByZXNzaW9uLW5vdGF0aW9uLm5vcm1hbGl6ZWQtc2VtYW50aWMtY29udGVudGd2ZXJzaW9uA2pvYmplY3RLaW5keBxzcG90Y29tcC5vcGVyYXRpb25hbC1yZWFkaW5na3NldHRsZWRCb2R5g2RwYWlygmRtYXJrcSJzZW4uanNvbi5vYmplY3Qig2RwYWlyg2RwYWlygmRtYXJrZiJjZWxsIoNkcGFpcoJkbWFya3Eic2VuLmpzb24ub2JqZWN0IoNkcGFpcoNkcGFpcoJkbWFya2gib2JqZWN0IoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3g7Im5pOi8vL3NoYS0yNTY7b0h5WTRTMFRtb2M5MmpnblNlRVdQZjhQT29hOURCQ05nYnRvV2s3RlJKbyKDZHBhaXKDZHBhaXKCZG1hcmtrInByZWRpY2F0ZSKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4JyJ1cm46NTYxOmpzb24tbWVtYmVyOmV4cGVjdC5nZW5lcmF0aW9uIoNkcGFpcoNkcGFpcoJkbWFya2kic3ViamVjdCKDZHBhaXKCZG1hcmtxInNlbi5qc29uLnN0cmluZyKCZG1hcmt4OyJuaTovLy9zaGEtMjU2O29IeVk0UzBUbW9jOTJqZ25TZUVXUGY4UE9vYTlEQkNOZ2J0b1drN0ZSSm8igWRzdGFyg2RwYWlyg2RwYWlygmRtYXJrbCJnZW5lcmF0aW9uIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3g7Im5pOi8vL3NoYS0yNTY7b0h5WTRTMFRtb2M5MmpnblNlRVdQZjhQT29hOURCQ05nYnRvV2s3RlJKbyKDZHBhaXKDZHBhaXKCZG1hcmtqImxhbmd1YWdlIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2UibGt0IoNkcGFpcoNkcGFpcoJkbWFya20ic291cmNlRW50cnkig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJreDsibmk6Ly8vc2hhLTI1NjtYT0U2R05OSllhMjFVaWlLLXI2clFYU24tV25Pb2t4d1dPS3BWTEkzbFU4IoNkcGFpcoNkcGFpcoJkbWFya24ic291cmNlUmVjb3JkIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya3g7Im5pOi8vL3NoYS0yNTY7WDh3ZENGcnJoLTdnR0xHSFMtYWVKa2ZWektuc2tMYWlhbDN1Z1ppajc1NCKDZHBhaXKDZHBhaXKCZG1hcmtwInNvdXJjZVNlbnRlbmNlIoNkcGFpcoJkbWFya3Eic2VuLmpzb24uc3RyaW5nIoJkbWFya2wid2HEjWjDrcWLLiKDZHBhaXKDZHBhaXKCZG1hcmtpInN1cmZhY2Uig2RwYWlygmRtYXJrcSJzZW4uanNvbi5zdHJpbmcigmRtYXJrayJ3YcSNaMOtxYsigWRzdGFya3dpdG5lc3NSb290eDluaTovLy9zaGEtMjU2O3VWQ0RZYTFURjRKSWotenh5LXZPVjRfNXhjNFprbVF0M2xQcTB0TF9CVFFsc2VtYW50aWNUeXBlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0g2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlg2Rwcm9kg2Rwcm9kgWRiYXNlg2Rwcm9kgWRiYXNlgWRiYXNlgWR1bml0cXNldHRsZW1lbnRQcm9maWxleCF1cm46cmNlOnNldHRsZW1lbnQ6aWRlbnRpdHk6MC4wLjF0bm9ybWFsaXphdGlvblByb2ZpbGV4G3VybjpyY2U6c2VuOm5vcm1hbGl6ZTowLjEuMA=="
+      }
+    }
+  },
+  "qualification": {
+    "type": "QualifiedGenerativeProofPath",
+    "proofProfile": "urn:rce:proof-path:generative:0.0.1",
+    "structureRoot": "ni:///sha-256;hN55Mg-yICeMzwSWykZIQuSlejhByUgX8lsueSUM-2s",
+    "witnessRoot": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ",
+    "sourceKey": "entry",
+    "targetKey": "generation",
+    "sourceCell": {
+      "object": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo",
+      "predicate": "urn:561:json-member:expect.generation",
+      "subject": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8"
+    },
+    "targetCell": {
+      "object": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo",
+      "predicate": "urn:561:json-member:expect.generation",
+      "subject": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+    },
+    "steps": [
+      {
+        "from": "entry",
+        "generator": "object-projection",
+        "to": "generation",
+        "senGenerator": "objectProjection"
+      }
+    ]
+  },
+  "rows": [
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#subject"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "urn:561:json-member:expect.generation"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#object"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "https://schema.org/text"
+      },
+      "v": {
+        "kind": "literal",
+        "value": "wačhíŋ",
+        "language": "lkt"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "https://schema.org/description"
+      },
+      "v": {
+        "kind": "literal",
+        "value": "wačhíŋ.",
+        "language": "lkt"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    },
+    {
+      "e": {
+        "kind": "iri",
+        "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+      },
+      "a": {
+        "kind": "iri",
+        "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+      },
+      "v": {
+        "kind": "iri",
+        "value": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ"
+      },
+      "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+    }
+  ],
+  "nquads": "<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <urn:561:json-member:expect.generation> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <https://schema.org/text> \"wačhíŋ\"@lkt <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <https://schema.org/description> \"wačhíŋ.\"@lkt <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> <ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> <ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .\n",
+  "sparql": {
+    "url": "https://market.561.group/v1/knowledge/sparql",
+    "method": "POST",
+    "body": {
+      "rows": [
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#subject"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "urn:561:json-member:expect.generation"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#object"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "https://schema.org/text"
+          },
+          "v": {
+            "kind": "literal",
+            "value": "wačhíŋ",
+            "language": "lkt"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "https://schema.org/description"
+          },
+          "v": {
+            "kind": "literal",
+            "value": "wačhíŋ.",
+            "language": "lkt"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        {
+          "e": {
+            "kind": "iri",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          "a": {
+            "kind": "iri",
+            "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+          },
+          "v": {
+            "kind": "iri",
+            "value": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ"
+          },
+          "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        }
+      ],
+      "query": "SELECT ?text ?source WHERE { <ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <https://schema.org/text> ?text . <ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> ?source } LIMIT 8"
+    }
+  },
+  "svgForm": {
+    "kind": "cell",
+    "items": [
+      {
+        "kind": "sym",
+        "name": "quote"
+      },
+      {
+        "kind": "cell",
+        "items": [
+          {
+            "kind": "sym",
+            "name": "qualified-reading"
+          },
+          {
+            "kind": "str",
+            "value": "wačhíŋ"
+          },
+          {
+            "kind": "str",
+            "value": "lkt"
+          },
+          {
+            "kind": "str",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          {
+            "kind": "str",
+            "value": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ"
+          },
+          {
+            "kind": "str",
+            "value": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+          }
+        ]
+      }
+    ]
+  }
+}

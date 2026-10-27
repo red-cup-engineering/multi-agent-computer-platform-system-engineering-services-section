@@ -1,0 +1,44 @@
+{
+  "name": "@red-cup-engineering/spotcomp-operational-reading",
+  "version": "0.1.0-dev.0",
+  "private": false,
+  "type": "module",
+  "description": "A finite SpotComp lineage composition: source-qualified generation readings in SEN, documentary RDF, SPARQL and quoted Horsetail SVG syntax.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/multi-agent-computer-platform-system-engineering-services-section.git",
+    "directory": "apps/spotcomp"
+  },
+  "exports": {
+    ".": "./src/operational-reading.mjs"
+  },
+  "bin": {
+    "spotcomp-operational-reading": "./scripts/operational-reading.mjs"
+  },
+  "dependencies": {
+    "@red-cup-engineering/computer-data-engineering-services-section": "0.7.2-dev.1405",
+    "@red-cup-engineering/computer-code-engineering-services-section": "0.3.0-dev.932",
+    "@red-cup-engineering/computer-triplet-serialized-content-engineering-services-section": "0.1.6-dev.135",
+    "@561-group/horsetail": "0.1.1-dev.0",
+    "@red-cup-engineering/json-schema-services-section": "0.5.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.1"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "files": [
+    "src",
+    "scripts",
+    "examples",
+    "test",
+    "README.md",
+    "LICENSE"
+  ],
+  "receivingTests": [
+    "test/operational-reading.test.mjs",
+    "test/cli.test.mjs"
+  ],
+  "license": "MIT"
+}

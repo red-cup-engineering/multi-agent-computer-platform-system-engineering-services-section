@@ -1,0 +1,9 @@
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <urn:561:json-member:expect.generation> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <https://schema.org/text> "wačhíŋ"@lkt <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <https://schema.org/description> "wačhíŋ."@lkt <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> <ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
+<ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> <ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ> <ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754> .
