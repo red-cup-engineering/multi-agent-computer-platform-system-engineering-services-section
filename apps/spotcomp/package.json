@@ -38,7 +38,8 @@
   ],
   "receivingTests": [
     "test/operational-reading.test.mjs",
-    "test/cli.test.mjs"
+    "test/cli.test.mjs",
+    "test/input-admission.test.mjs"
   ],
   "license": "MIT"
 }

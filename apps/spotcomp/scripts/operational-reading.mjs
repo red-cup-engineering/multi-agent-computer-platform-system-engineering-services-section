@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileSync } from 'node:fs';
+import { readFileSync, statSync } from 'node:fs';
 import { projectOperationalReading } from '../src/operational-reading.mjs';
 
 async function main() {
@@ -19,6 +19,12 @@ if (!validModes.includes(mode)) {
 }
 
 try {
+  const recordStat = statSync(recordFile);
+  if (!recordStat.isFile()) throw new Error(`recordFile is not a regular file: ${recordFile}`);
+  if (!Number.isSafeInteger(recordStat.size) || recordStat.size < 1 || recordStat.size > 32768) throw new Error(`recordFile size out of bounds: ${recordStat.size} bytes (must be 1..32768)`);
+  const sourceStat = statSync(sourceFile);
+  if (!sourceStat.isFile()) throw new Error(`sourceFile is not a regular file: ${sourceFile}`);
+  if (!Number.isSafeInteger(sourceStat.size) || sourceStat.size < 1 || sourceStat.size > 65536) throw new Error(`sourceFile size out of bounds: ${sourceStat.size} bytes (must be 1..65536)`);
   const recordBytes = new Uint8Array(readFileSync(recordFile));
   const source = JSON.parse(readFileSync(sourceFile, 'utf8'));
   const packet = projectOperationalReading({ recordBytes, source });
