@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileSync } from 'node:fs';
+import { readFileSync, statSync } from 'node:fs';
 import { projectOperationalReading } from '../src/operational-reading.mjs';
 
 async function main() {
