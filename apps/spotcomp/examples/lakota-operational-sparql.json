@@ -1,0 +1,146 @@
+{
+  "url": "https://market.561.group/v1/knowledge/sparql",
+  "method": "POST",
+  "body": {
+    "rows": [
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#subject"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "urn:561:json-member:expect.generation"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#object"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "https://schema.org/text"
+        },
+        "v": {
+          "kind": "literal",
+          "value": "wačhíŋ",
+          "language": "lkt"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "https://schema.org/description"
+        },
+        "v": {
+          "kind": "literal",
+          "value": "wačhíŋ.",
+          "language": "lkt"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      },
+      {
+        "e": {
+          "kind": "iri",
+          "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+        },
+        "a": {
+          "kind": "iri",
+          "value": "http://www.w3.org/ns/prov#wasDerivedFrom"
+        },
+        "v": {
+          "kind": "iri",
+          "value": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ"
+        },
+        "t": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+      }
+    ],
+    "query": "SELECT ?text ?source WHERE { <ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <https://schema.org/text> ?text . <ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk> <http://www.w3.org/ns/prov#wasDerivedFrom> ?source } LIMIT 8"
+  }
+}
